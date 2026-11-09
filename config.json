@@ -1,0 +1,231 @@
+{
+ "min_score": 30,
+ "title_weight": 2,
+ "tracks": {
+  "construction": [
+   "construction",
+   "civil engineer",
+   "site supervision",
+   "rehabilitation",
+   "building",
+   "contractor",
+   "bill of quantities",
+   "boq",
+   "works contract",
+   "structural",
+   "engineer",
+   "reconstruction",
+   "civil works",
+   "works",
+   "surveyor",
+   "shelter",
+   "site engineer",
+   "infrastructure",
+   "quality control",
+   "građevin*",
+   "gradilišt*",
+   "inženjer",
+   "nadzor",
+   "nadzorni",
+   "rekonstrukcij*",
+   "sanacij*",
+   "izvođač*",
+   "građevinsk*"
+  ],
+  "architecture_heritage": [
+   "architect",
+   "architecture",
+   "heritage",
+   "conservation",
+   "restoration",
+   "urban planning",
+   "urban development",
+   "arhitekt*",
+   "urbanizam",
+   "prostorno planiranje",
+   "kulturno naslijeđe"
+  ],
+  "project_management": [
+   "project manager",
+   "project management",
+   "programme manager",
+   "project coordinator",
+   "pmp",
+   "implementation",
+   "monitoring",
+   "planning",
+   "scheduling",
+   "coordinator",
+   "voditelj projekta",
+   "koordinator projekta",
+   "menadžer projekta"
+  ],
+  "procurement_contracts": [
+   "procurement",
+   "tender",
+   "contract management",
+   "contracts",
+   "fidic",
+   "supply",
+   "evaluation of bids",
+   "technical evaluation",
+   "bids",
+   "javne nabavke",
+   "nabavk*",
+   "tender"
+  ],
+  "wash_infrastructure": [
+   "wash infrastructure",
+   "water supply",
+   "sanitation infrastructure",
+   "water and sanitation engineer",
+   "solar",
+   "energy efficiency"
+  ],
+  "facilities": [
+   "facilities management",
+   "facility manager",
+   "maintenance",
+   "premises",
+   "infrastructure engineer",
+   "facilities",
+   "održavanj*"
+  ]
+ },
+ "hard_negative": [
+  "software",
+  "it infrastructure",
+  "cloud",
+  "network engineer",
+  "devops",
+  "data scientist",
+  "nurse",
+  "medical doctor",
+  "driver",
+  "accountant",
+  "teacher",
+  "cyber"
+ ],
+ "soft_negative": [
+  "hygiene promotion",
+  "community mobilisation",
+  "behaviour change",
+  "fundraising",
+  "communication officer",
+  "intern",
+  "internship"
+ ],
+ "location_bonus": {
+  "bosnia": 15,
+  "sarajevo": 15,
+  "western balkans": 10,
+  "remote": 5,
+  "home-based": 5,
+  "bosnia and herzegovina": 0,
+  "bih": 15,
+  "mostar": 10,
+  "banja luka": 10,
+  "tuzla": 10,
+  "zenica": 10,
+  "belgrade": 5,
+  "zagreb": 5,
+  "podgorica": 5,
+  "pristina": 5,
+  "skopje": 5
+ },
+ "level_bonus": {
+  "p-3": 10,
+  "p-4": 10,
+  "no-c": 10,
+  "no-b": 5,
+  "senior": 5,
+  "specialist": 5
+ },
+ "maybe_score": 15,
+ "keep_runs": 40,
+ "sources": [
+  {
+   "name": "UNDP",
+   "type": "oracle",
+   "host": "estm.fa.em2.oraclecloud.com",
+   "site": "CX_1",
+   "manual": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs"
+  },
+  {
+   "name": "IOM",
+   "type": "oracle",
+   "host": "fa-evlj-saasfaprod1.fa.ocs.oraclecloud.com",
+   "site": "CX_1001",
+   "manual": "https://fa-evlj-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs"
+  },
+  {
+   "name": "Save the Children",
+   "type": "oracle",
+   "host": "hcri.fa.em2.oraclecloud.com",
+   "site": "CX_1",
+   "manual": "https://hcri.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs"
+  },
+  {
+   "name": "UNICEF",
+   "type": "rss",
+   "urls": [
+    "https://careers.pageuppeople.com/671/cw/en/rss"
+   ],
+   "manual": "https://jobs.unicef.org/en-us/listing/"
+  },
+  {
+   "name": "UN Careers",
+   "type": "auto",
+   "urls": [
+    "https://careers.un.org/jobfeed",
+    "https://careers.un.org/jobfeed?isPage=true&language=en"
+   ],
+   "link_has": "jobSearchDescription",
+   "manual": "https://careers.un.org/jobopenings?language=en"
+  },
+  {
+   "name": "UNOPS",
+   "type": "auto",
+   "urls": [
+    "https://careers.unops.org/careersmarketplace/SearchJobs/feed/?listFilterMode=1&jobRecordsPerPage=200",
+    "https://rss.careers.unops.org/",
+    "https://careers.unops.org/careersmarketplace/SearchJobs?jobRecordsPerPage=200"
+   ],
+   "link_has": "JobDetail",
+   "manual": "https://careers.unops.org/"
+  },
+  {
+   "name": "ReliefWeb",
+   "type": "rss",
+   "urls": [
+    "https://reliefweb.int/jobs/rss.xml?search=construction%20OR%20engineer%20OR%20infrastructure%20OR%20rehabilitation%20OR%20shelter",
+    "https://reliefweb.int/jobs/rss.xml"
+   ],
+   "manual": "https://reliefweb.int/jobs"
+  },
+  {
+   "name": "ReliefWeb BiH + Balkans",
+   "type": "rss",
+   "urls": [
+    "https://reliefweb.int/jobs/rss.xml?search=country.exact:%22Bosnia%20and%20Herzegovina%22%20OR%20country.exact:Serbia%20OR%20country.exact:Montenegro%20OR%20country.exact:Croatia"
+   ],
+   "manual": "https://reliefweb.int/jobs?search=country.exact:%22Bosnia%20and%20Herzegovina%22"
+  },
+  {
+   "name": "Impactpool",
+   "type": "auto",
+   "urls": [
+    "https://www.impactpool.org/search?q=construction",
+    "https://www.impactpool.org/search?q=engineer"
+   ],
+   "link_has": "/jobs/",
+   "manual": "https://www.impactpool.org/search?q=construction%20engineer"
+  }
+ ],
+ "manual_only": {
+  "UNjobs": "robots.txt forbids automated collection",
+  "UNJobsFeed": "no vacancy links in the page (V12)",
+  "Devex / MojPosao": "pages built by JavaScript"
+ },
+ "_help": "Keywords match whole words. A keyword ending in * matches word beginnings (građevin* = građevinski, građevina...)."
+}
