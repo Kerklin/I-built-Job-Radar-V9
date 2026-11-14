@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14 18:01 UTC",
+ "updated": "2026-11-14 22:24 UTC",
  "jobs": [
   {
    "title": "Business and Human Rights Analyst",
@@ -2550,6 +2550,24 @@
    "stale": false
   },
   {
+   "title": "Senior Project Manager (Infrastructure)",
+   "link": "https://careers.unops.org/careersmarketplace/JobDetail/Senior-Project-Manager-Infrastructure/4924",
+   "source": "UNOPS",
+   "score": 65,
+   "track": "construction",
+   "why": [
+    "infrastructure",
+    "project manager",
+    "+senior"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "reason": "deadline not found - open the vacancy",
+   "snippet": "",
+   "first_seen": "2026-11-14",
+   "stale": false
+  },
+  {
    "title": "International Consultant to Support the development and Delivery of the Professional Capacity Building Programme, Tashkent, Uzbekistan, 11.7 months, Remote with travel",
    "link": "https://careers.pageuppeople.com/671/cw/en-us/job/596964",
    "source": "UNICEF",
@@ -2633,24 +2651,6 @@
    "reason": "deadline not found - open the vacancy",
    "snippet": "UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood through adolescence. At UNICEF, we are committed, passionate, and proud of what we do for as long as we are needed. Promoting the rights of ev",
    "first_seen": "2026-11-09",
-   "stale": false
-  },
-  {
-   "title": "Senior Project Manager (Infrastructure)",
-   "link": "https://careers.unops.org/careersmarketplace/JobDetail/Senior-Project-Manager-Infrastructure/4924",
-   "source": "UNOPS",
-   "score": 65,
-   "track": "construction",
-   "why": [
-    "infrastructure",
-    "project manager",
-    "+senior"
-   ],
-   "deadline": "",
-   "status": "CHECK",
-   "reason": "deadline not found - open the vacancy",
-   "snippet": "",
-   "first_seen": "2026-11-14",
    "stale": false
   },
   {
@@ -3348,27 +3348,6 @@
    "stale": false
   },
   {
-   "title": "Programme Specialist - Migration and Displacement (P-3), Temporary Appointment ,364 days, #00138953,, Global Programme Division, CoE Child Protection and Migration, Nairobi, Kenya (Remote)",
-   "link": "https://careers.pageuppeople.com/671/cw/en-us/job/596748",
-   "source": "UNICEF",
-   "score": 50,
-   "track": "construction",
-   "why": [
-    "building",
-    "works",
-    "implementation",
-    "+remote",
-    "+p-3",
-    "+specialist"
-   ],
-   "deadline": "",
-   "status": "CHECK",
-   "reason": "deadline not found - open the vacancy",
-   "snippet": "UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood through adolescence. At UNICEF, we are committed, passionate, and proud of what we do for as long as we are needed. Promoting the rights of ev",
-   "first_seen": "2026-11-09",
-   "stale": false
-  },
-  {
    "title": "PME Consultant, UNICEF Office of Emergency Programmes, People-Centered Humanitarian Partnerships section (EMOPS, PCHP), Geneva, Switzerland, 12 months (remote) #596793",
    "link": "https://careers.pageuppeople.com/671/cw/en-us/job/596793",
    "source": "UNICEF",
@@ -3924,6 +3903,74 @@
    "stale": false
   },
   {
+   "title": "Project Management Support Specialist",
+   "link": "https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Specialist/4896",
+   "source": "UNOPS",
+   "score": 35,
+   "track": "project_management",
+   "why": [
+    "project management",
+    "+specialist"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "reason": "deadline not found - open the vacancy",
+   "snippet": "",
+   "first_seen": "2026-11-09",
+   "stale": false
+  },
+  {
+   "title": "Project Management Support Specialist (Local Law)",
+   "link": "https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Specialist-Local-Law/4908",
+   "source": "UNOPS",
+   "score": 35,
+   "track": "project_management",
+   "why": [
+    "project management",
+    "+specialist"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "reason": "deadline not found - open the vacancy",
+   "snippet": "",
+   "first_seen": "2026-11-09",
+   "stale": false
+  },
+  {
+   "title": "Procurement Senior Officer",
+   "link": "https://careers.unops.org/careersmarketplace/JobDetail/Procurement-Senior-Officer/4823",
+   "source": "UNOPS",
+   "score": 35,
+   "track": "procurement_contracts",
+   "why": [
+    "procurement",
+    "+senior"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "reason": "deadline not found - open the vacancy",
+   "snippet": "",
+   "first_seen": "2026-11-10",
+   "stale": false
+  },
+  {
+   "title": "Senior Manager, Geneva Digital Inclusion Ecosystem Building and Governance",
+   "link": "https://careers.unops.org/careersmarketplace/JobDetail/Senior-Manager-Geneva-Digital-Inclusion-Ecosystem-Building-and-Governance/4984",
+   "source": "UNOPS",
+   "score": 35,
+   "track": "construction",
+   "why": [
+    "building",
+    "+senior"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "reason": "deadline not found - open the vacancy",
+   "snippet": "",
+   "first_seen": "2026-11-13",
+   "stale": false
+  },
+  {
    "title": "Data and AI Governance Consultant, 12.8 months, Dakar, Remote with travel",
    "link": "https://careers.pageuppeople.com/671/cw/en-us/job/596975",
    "source": "UNICEF",
@@ -4172,74 +4219,6 @@
    "stale": false
   },
   {
-   "title": "Project Management Support Specialist",
-   "link": "https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Specialist/4896",
-   "source": "UNOPS",
-   "score": 35,
-   "track": "project_management",
-   "why": [
-    "project management",
-    "+specialist"
-   ],
-   "deadline": "",
-   "status": "CHECK",
-   "reason": "deadline not found - open the vacancy",
-   "snippet": "",
-   "first_seen": "2026-11-09",
-   "stale": false
-  },
-  {
-   "title": "Project Management Support Specialist (Local Law)",
-   "link": "https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Specialist-Local-Law/4908",
-   "source": "UNOPS",
-   "score": 35,
-   "track": "project_management",
-   "why": [
-    "project management",
-    "+specialist"
-   ],
-   "deadline": "",
-   "status": "CHECK",
-   "reason": "deadline not found - open the vacancy",
-   "snippet": "",
-   "first_seen": "2026-11-09",
-   "stale": false
-  },
-  {
-   "title": "Procurement Senior Officer",
-   "link": "https://careers.unops.org/careersmarketplace/JobDetail/Procurement-Senior-Officer/4823",
-   "source": "UNOPS",
-   "score": 35,
-   "track": "procurement_contracts",
-   "why": [
-    "procurement",
-    "+senior"
-   ],
-   "deadline": "",
-   "status": "CHECK",
-   "reason": "deadline not found - open the vacancy",
-   "snippet": "",
-   "first_seen": "2026-11-10",
-   "stale": false
-  },
-  {
-   "title": "Senior Manager, Geneva Digital Inclusion Ecosystem Building and Governance",
-   "link": "https://careers.unops.org/careersmarketplace/JobDetail/Senior-Manager-Geneva-Digital-Inclusion-Ecosystem-Building-and-Governance/4984",
-   "source": "UNOPS",
-   "score": 35,
-   "track": "construction",
-   "why": [
-    "building",
-    "+senior"
-   ],
-   "deadline": "",
-   "status": "CHECK",
-   "reason": "deadline not found - open the vacancy",
-   "snippet": "",
-   "first_seen": "2026-11-13",
-   "stale": false
-  },
-  {
    "title": "TEMPORARY POST - Construction and Industrial Security Officer NATO - North Atlantic Treaty Organization Mons NATO Grade G15",
    "link": "https://www.impactpool.org/jobs/1247750",
    "source": "Impactpool",
@@ -4381,6 +4360,38 @@
    "reason": "deadline not found - open the vacancy",
    "snippet": "",
    "first_seen": "2026-11-11",
+   "stale": false
+  },
+  {
+   "title": "Biomedical Engineer",
+   "link": "https://careers.unops.org/careersmarketplace/JobDetail/Biomedical-Engineer/4736",
+   "source": "UNOPS",
+   "score": 30,
+   "track": "construction",
+   "why": [
+    "engineer"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "reason": "deadline not found - open the vacancy",
+   "snippet": "",
+   "first_seen": "2026-11-09",
+   "stale": false
+  },
+  {
+   "title": "Project Management Support Officer",
+   "link": "https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Officer/4873",
+   "source": "UNOPS",
+   "score": 30,
+   "track": "project_management",
+   "why": [
+    "project management"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "reason": "deadline not found - open the vacancy",
+   "snippet": "",
+   "first_seen": "2026-11-14",
    "stale": false
   },
   {
@@ -4568,38 +4579,6 @@
    "reason": "deadline not found - open the vacancy",
    "snippet": "This is a re-advert isement, candidates who have already applied do not need to re-apply. UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood through adolescence. At UNICEF, we are committed, pa",
    "first_seen": "2026-11-09",
-   "stale": false
-  },
-  {
-   "title": "Biomedical Engineer",
-   "link": "https://careers.unops.org/careersmarketplace/JobDetail/Biomedical-Engineer/4736",
-   "source": "UNOPS",
-   "score": 30,
-   "track": "construction",
-   "why": [
-    "engineer"
-   ],
-   "deadline": "",
-   "status": "CHECK",
-   "reason": "deadline not found - open the vacancy",
-   "snippet": "",
-   "first_seen": "2026-11-09",
-   "stale": false
-  },
-  {
-   "title": "Project Management Support Officer",
-   "link": "https://careers.unops.org/careersmarketplace/JobDetail/Project-Management-Support-Officer/4873",
-   "source": "UNOPS",
-   "score": 30,
-   "track": "project_management",
-   "why": [
-    "project management"
-   ],
-   "deadline": "",
-   "status": "CHECK",
-   "reason": "deadline not found - open the vacancy",
-   "snippet": "",
-   "first_seen": "2026-11-14",
    "stale": false
   },
   {
@@ -5724,47 +5703,47 @@
    "status": "OK",
    "items": 40,
    "matches": 28,
-   "last_ok": "2026-11-14 18:01 UTC",
+   "last_ok": "2026-11-14 22:24 UTC",
    "detail": "https://www.impactpool.org/search?q=construction",
    "manual": "https://www.impactpool.org/search?q=construction%20engineer"
-  },
-  "UNICEF": {
-   "status": "OK",
-   "items": 217,
-   "matches": 145,
-   "last_ok": "2026-11-14 18:01 UTC",
-   "detail": "https://careers.pageuppeople.com/671/cw/en/rss",
-   "manual": "https://jobs.unicef.org/en-us/listing/"
-  },
-  "UN Careers": {
-   "status": "OK",
-   "items": 456,
-   "matches": 51,
-   "last_ok": "2026-11-14 18:01 UTC",
-   "detail": "https://careers.un.org/jobfeed",
-   "manual": "https://careers.un.org/jobopenings?language=en"
   },
   "UNOPS": {
    "status": "OK",
    "items": 20,
    "matches": 7,
-   "last_ok": "2026-11-14 18:01 UTC",
+   "last_ok": "2026-11-14 22:24 UTC",
    "detail": "https://careers.unops.org/careersmarketplace/SearchJobs/feed/?listFilterMode=1&jobRecordsPerPage=200",
    "manual": "https://careers.unops.org/"
   },
+  "UN Careers": {
+   "status": "OK",
+   "items": 456,
+   "matches": 51,
+   "last_ok": "2026-11-14 22:24 UTC",
+   "detail": "https://careers.un.org/jobfeed",
+   "manual": "https://careers.un.org/jobopenings?language=en"
+  },
+  "UNICEF": {
+   "status": "OK",
+   "items": 215,
+   "matches": 144,
+   "last_ok": "2026-11-14 22:24 UTC",
+   "detail": "https://careers.pageuppeople.com/671/cw/en/rss",
+   "manual": "https://jobs.unicef.org/en-us/listing/"
+  },
   "Save the Children": {
    "status": "OK",
-   "items": 88,
+   "items": 87,
    "matches": 20,
-   "last_ok": "2026-11-14 18:01 UTC",
+   "last_ok": "2026-11-14 22:24 UTC",
    "detail": "hcri.fa.em2.oraclecloud.com",
    "manual": "https://hcri.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs"
   },
   "IOM": {
    "status": "OK",
-   "items": 154,
+   "items": 153,
    "matches": 24,
-   "last_ok": "2026-11-14 18:01 UTC",
+   "last_ok": "2026-11-14 22:24 UTC",
    "detail": "fa-evlj-saasfaprod1.fa.ocs.oraclecloud.com",
    "manual": "https://fa-evlj-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs"
   },
@@ -5772,7 +5751,7 @@
    "status": "OK",
    "items": 102,
    "matches": 19,
-   "last_ok": "2026-11-14 18:01 UTC",
+   "last_ok": "2026-11-14 22:24 UTC",
    "detail": "estm.fa.em2.oraclecloud.com",
    "manual": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs"
   }
