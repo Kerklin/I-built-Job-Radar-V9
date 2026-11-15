@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15 06:32 UTC",
+ "updated": "2026-11-15 18:51 UTC",
  "jobs": [
   {
    "title": "Business and Human Rights Analyst",
@@ -205,6 +205,74 @@
    "reason": "no blocker found in the text",
    "snippet": "Aden, Yemen Tiered Approach In line with the commitment to safeguard capacity and support personnel already in the Organization, a majority of UNDP UNCDF/UNV vacancies are advertised using a tiered application process whereby: Tier 0 : UNDP/UNCDF/UNV IP staff holding permanent (PA) and fixed-term (F",
    "first_seen": "2026-11-12",
+   "stale": false
+  },
+  {
+   "title": "Quality Control Assistant (Shelter/NFI)",
+   "link": "https://fa-evlj-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/23984/",
+   "source": "IOM",
+   "score": 85,
+   "track": "construction",
+   "why": [
+    "quality control",
+    "shelter",
+    "building",
+    "architecture",
+    "implementation",
+    "monitoring",
+    "procurement",
+    "supply"
+   ],
+   "deadline": "2026-11-21",
+   "status": "OK",
+   "reason": "no blocker found in the text",
+   "snippet": "Cox's Bazar, Bangladesh Under the overall supervision of the Project Officer (Shelter/NFI) and the direct supervision of the Senior Supply and Quality Control Assistant of the Shelter/NFI Unit, the successful candidate will assist to implement the Shelter/NFI programmes with a focus on taking part i",
+   "first_seen": "2026-11-15",
+   "stale": false
+  },
+  {
+   "title": "Field Assistant (Shelter/NFI)",
+   "link": "https://fa-evlj-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/23987/",
+   "source": "IOM",
+   "score": 85,
+   "track": "construction",
+   "why": [
+    "shelter",
+    "building",
+    "works",
+    "architecture",
+    "implementation",
+    "monitoring",
+    "+senior"
+   ],
+   "deadline": "2026-11-21",
+   "status": "OK",
+   "reason": "no blocker found in the text",
+   "snippet": "Cox's Bazar, Bangladesh Under the direct supervision of a Senior Project Assistant or an International Programme and Project Officers of the Shelter/Non-Food Items (NFI) Unit the successful candidate will implement activities related to data collection, distribution, community mobilization, shelter ",
+   "first_seen": "2026-11-15",
+   "stale": false
+  },
+  {
+   "title": "Field Project Assistant (Shelter/NFI)",
+   "link": "https://fa-evlj-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/23988/",
+   "source": "IOM",
+   "score": 85,
+   "track": "construction",
+   "why": [
+    "shelter",
+    "building",
+    "construction",
+    "infrastructure",
+    "architecture",
+    "implementation",
+    "monitoring",
+    "planning"
+   ],
+   "deadline": "2026-11-21",
+   "status": "OK",
+   "reason": "no blocker found in the text",
+   "snippet": "Chittagong, Bangladesh Under the overall supervision of the Programme Manager (Shelter/NFI) and the direct supervision of the Senior Project Assistant or Programme Officer (Shelter/NFI), the successful candidate will assist to will assist in the implementation of the Shelter/NFI programme in Cox’s B",
+   "first_seen": "2026-11-15",
    "stale": false
   },
   {
@@ -3517,24 +3585,6 @@
    "stale": false
   },
   {
-   "title": "Senior Specialist – ICT Solutions Architect, ICT Strategy & Execution Coordination Unit (AD8) EUROPOL The Hague AD8",
-   "link": "https://www.impactpool.org/jobs/1243122",
-   "source": "Impactpool",
-   "score": 40,
-   "track": "architecture_heritage",
-   "why": [
-    "architect",
-    "+senior",
-    "+specialist"
-   ],
-   "deadline": "",
-   "status": "CHECK",
-   "reason": "deadline not found - open the vacancy",
-   "snippet": "",
-   "first_seen": "2026-11-13",
-   "stale": false
-  },
-  {
    "title": "A Million Balls Initiative: Project Development Consultant, Global Programme Division, Director’s office, NYHQ, Remote with travel, 11 months, # 596974",
    "link": "https://careers.pageuppeople.com/671/cw/en-us/job/596974",
    "source": "UNICEF",
@@ -4201,6 +4251,22 @@
    "stale": false
   },
   {
+   "title": "New job: Field Engineer IRC - International Rescue Committee Chaman Mid - Mid level",
+   "link": "https://www.impactpool.org/jobs/1248007",
+   "source": "Impactpool",
+   "score": 30,
+   "track": "construction",
+   "why": [
+    "engineer"
+   ],
+   "deadline": "",
+   "status": "CHECK",
+   "reason": "deadline not found - open the vacancy",
+   "snippet": "",
+   "first_seen": "2026-11-15",
+   "stale": false
+  },
+  {
    "title": "Building Technician – BIM & CAFM Focus (m/f/d) EMBL - European Molecular Biology Laboratory Heidelberg | Barcelona | Hamburg | Rome | Grenoble Grade 4",
    "link": "https://www.impactpool.org/jobs/1243478",
    "source": "Impactpool",
@@ -4265,19 +4331,19 @@
    "stale": false
   },
   {
-   "title": "Maintenance Assistant (Plumbing) SPC - Pacific Community Suva band 4",
-   "link": "https://www.impactpool.org/jobs/1245873",
+   "title": "New job: E T Consultant - Environmental Engineer World Bank Group Dhaka EC2 - Extended Term Consultant Appointment - Consultancy",
+   "link": "https://www.impactpool.org/jobs/1248012",
    "source": "Impactpool",
    "score": 30,
-   "track": "facilities",
+   "track": "construction",
    "why": [
-    "maintenance"
+    "engineer"
    ],
    "deadline": "",
    "status": "CHECK",
    "reason": "deadline not found - open the vacancy",
    "snippet": "",
-   "first_seen": "2026-11-11",
+   "first_seen": "2026-11-15",
    "stale": false
   },
   {
@@ -4458,25 +4524,6 @@
    "status": "CHECK",
    "reason": "deadline not found - open the vacancy",
    "snippet": "Contract Duration – 12 months Working arrangement: Office Based with trip UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood through adolescence. At UNICEF, we are committed, passionate, and pr",
-   "first_seen": "2026-11-09",
-   "stale": false
-  },
-  {
-   "title": "International Sustainable Energy Consultant, Global Programme Division(GPD), Climate Resilience section, Remote work, for 12 months, Bangkok, Thailand",
-   "link": "https://careers.pageuppeople.com/671/cw/en-us/job/596727",
-   "source": "UNICEF",
-   "score": 30,
-   "track": "construction",
-   "why": [
-    "works",
-    "project management",
-    "+remote",
-    "+specialist"
-   ],
-   "deadline": "",
-   "status": "CHECK",
-   "reason": "deadline not found - open the vacancy",
-   "snippet": "UNICEF works in over 190 countries and territories to save children’s lives, defend their rights, and help them fulfill their potential, from early childhood through adolescence. At UNICEF, we are committed, passionate, and proud of what we do for as long as we are needed. Promoting the rights of ev",
    "first_seen": "2026-11-09",
    "stale": false
   },
@@ -5458,6 +5505,22 @@
    "stale": false
   },
   {
+   "title": "New job: Field Project Assistant (Shelter/NFI) IOM - International Organization for Migration Cox's Bazaar GS-5, General Service - No need for Higher Education - Locally recruited position - Administr",
+   "link": "https://www.impactpool.org/jobs/1248022",
+   "source": "Impactpool",
+   "score": 30,
+   "track": "construction",
+   "why": [
+    "shelter"
+   ],
+   "deadline": "",
+   "status": "INELIGIBLE",
+   "reason": "local/national post outside BiH",
+   "snippet": "",
+   "first_seen": "2026-11-15",
+   "stale": false
+  },
+  {
    "title": "Closing tomorrow: ASSOCIATE, WASTEWATER ENGINEER GGGI - Global Green Growth Institute Lao PDR G6",
    "link": "https://www.impactpool.org/jobs/1247816",
    "source": "Impactpool",
@@ -5620,8 +5683,8 @@
   "Impactpool": {
    "status": "OK",
    "items": 40,
-   "matches": 28,
-   "last_ok": "2026-11-15 06:32 UTC",
+   "matches": 29,
+   "last_ok": "2026-11-15 18:51 UTC",
    "detail": "https://www.impactpool.org/search?q=construction",
    "manual": "https://www.impactpool.org/search?q=construction%20engineer"
   },
@@ -5629,47 +5692,47 @@
    "status": "OK",
    "items": 20,
    "matches": 6,
-   "last_ok": "2026-11-15 06:32 UTC",
+   "last_ok": "2026-11-15 18:51 UTC",
    "detail": "https://careers.unops.org/careersmarketplace/SearchJobs/feed/?listFilterMode=1&jobRecordsPerPage=200",
    "manual": "https://careers.unops.org/"
   },
-  "UNICEF": {
-   "status": "OK",
-   "items": 213,
-   "matches": 143,
-   "last_ok": "2026-11-15 06:32 UTC",
-   "detail": "https://careers.pageuppeople.com/671/cw/en/rss",
-   "manual": "https://jobs.unicef.org/en-us/listing/"
-  },
   "UN Careers": {
    "status": "OK",
-   "items": 445,
+   "items": 448,
    "matches": 51,
-   "last_ok": "2026-11-15 06:32 UTC",
+   "last_ok": "2026-11-15 18:51 UTC",
    "detail": "https://careers.un.org/jobfeed",
    "manual": "https://careers.un.org/jobopenings?language=en"
+  },
+  "UNICEF": {
+   "status": "OK",
+   "items": 212,
+   "matches": 142,
+   "last_ok": "2026-11-15 18:51 UTC",
+   "detail": "https://careers.pageuppeople.com/671/cw/en/rss",
+   "manual": "https://jobs.unicef.org/en-us/listing/"
   },
   "Save the Children": {
    "status": "OK",
    "items": 86,
    "matches": 20,
-   "last_ok": "2026-11-15 06:32 UTC",
+   "last_ok": "2026-11-15 18:51 UTC",
    "detail": "hcri.fa.em2.oraclecloud.com",
    "manual": "https://hcri.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs"
   },
   "IOM": {
    "status": "OK",
-   "items": 151,
-   "matches": 23,
-   "last_ok": "2026-11-15 06:32 UTC",
+   "items": 156,
+   "matches": 26,
+   "last_ok": "2026-11-15 18:51 UTC",
    "detail": "fa-evlj-saasfaprod1.fa.ocs.oraclecloud.com",
    "manual": "https://fa-evlj-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs"
   },
   "UNDP": {
    "status": "OK",
-   "items": 98,
+   "items": 97,
    "matches": 18,
-   "last_ok": "2026-11-15 06:32 UTC",
+   "last_ok": "2026-11-15 18:51 UTC",
    "detail": "estm.fa.em2.oraclecloud.com",
    "manual": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs"
   }
